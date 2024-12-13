@@ -7825,7 +7825,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-13 01:19:07 +0000"
+      "apple": "2024-12-13 01:19:07 +0000",
+      "melon_slice": "2024-12-13 15:25:26 +0000"
     },
     "done": false
   },
@@ -7897,7 +7898,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-13 15:23:29 +0000",
       "minecraft:spider": "2024-12-13 01:51:31 +0000",
+      "minecraft:zombie": "2024-12-13 15:23:22 +0000",
       "minecraft:creeper": "2024-12-13 15:06:43 +0000"
     },
     "done": false
