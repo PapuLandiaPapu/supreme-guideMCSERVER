@@ -7899,6 +7899,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 15:23:29 +0000",
+      "minecraft:witch": "2024-12-13 15:36:13 +0000",
       "minecraft:spider": "2024-12-13 01:51:31 +0000",
       "minecraft:zombie": "2024-12-13 15:23:22 +0000",
       "minecraft:creeper": "2024-12-13 15:06:43 +0000"
@@ -7932,6 +7933,30 @@
   "obs:ob/creeper": {
     "criteria": {
       "requirement": "2024-12-13 15:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-13 15:37:01 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/witch": {
+    "criteria": {
+      "requirement": "2024-12-13 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-13 15:38:25 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2024-12-13 15:38:25 +0000"
     },
     "done": true
   },

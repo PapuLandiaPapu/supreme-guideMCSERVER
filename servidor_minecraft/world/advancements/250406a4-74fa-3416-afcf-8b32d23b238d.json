@@ -7856,6 +7856,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-13 15:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-13 15:29:33 +0000"
@@ -7865,6 +7871,12 @@
   "obs:ob/sapling": {
     "criteria": {
       "requirement": "2024-12-13 15:20:06 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2024-12-13 15:44:49 +0000"
     },
     "done": true
   },
@@ -7880,11 +7892,23 @@
     },
     "done": true
   },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2024-12-13 15:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-12-13 15:29:33 +0000"
     },
     "done": false
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2024-12-13 15:41:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
