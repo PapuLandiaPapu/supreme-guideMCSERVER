@@ -7739,9 +7739,15 @@
     },
     "done": false
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "iron_pickaxe": "2024-12-13 15:01:43 +0000"
+      "iron": "2024-12-13 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-13 15:01:17 +0000"
     },
     "done": true
   },
@@ -7751,39 +7757,15 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-13 15:01:17 +0000"
-    },
-    "done": true
-  },
   "obs:phases/root": {
     "criteria": {
       "requirement": "2024-12-13 15:01:26 +0000"
     },
     "done": true
   },
-  "obs:ob/coal": {
-    "criteria": {
-      "requirement": "2024-12-13 15:01:55 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/redstone": {
-    "criteria": {
-      "requirement": "2024-12-13 15:02:08 +0000"
-    },
-    "done": true
-  },
   "obs:ob/cobblemania": {
     "criteria": {
       "requirement": "2024-12-13 15:01:26 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/iron": {
-    "criteria": {
-      "requirement": "2024-12-13 15:01:17 +0000"
     },
     "done": true
   },
@@ -7820,6 +7802,48 @@
   "obs:phases/phase_6": {
     "criteria": {
       "requirement": "2024-12-13 15:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-13 15:01:43 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-13 15:01:55 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-13 15:02:08 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2024-12-13 15:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-13 15:06:26 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2024-12-13 15:06:26 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-13 15:20:06 +0000"
     },
     "done": true
   },

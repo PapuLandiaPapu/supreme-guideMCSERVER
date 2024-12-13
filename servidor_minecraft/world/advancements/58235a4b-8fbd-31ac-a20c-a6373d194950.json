@@ -7897,7 +7897,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-13 01:51:31 +0000"
+      "minecraft:spider": "2024-12-13 01:51:31 +0000",
+      "minecraft:creeper": "2024-12-13 15:06:43 +0000"
     },
     "done": false
   },
@@ -7910,6 +7911,24 @@
   "obs:phases/dirt_4": {
     "criteria": {
       "requirement": "2024-12-13 01:54:58 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_5": {
+    "criteria": {
+      "requirement": "2024-12-13 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2024-12-13 15:04:52 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2024-12-13 15:06:43 +0000"
     },
     "done": true
   },
