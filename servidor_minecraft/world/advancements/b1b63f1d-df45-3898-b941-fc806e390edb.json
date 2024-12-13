@@ -2357,12 +2357,6 @@
     },
     "done": true
   },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2024-12-13 01:00:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:59:26 +0000"
@@ -4547,12 +4541,6 @@
     },
     "done": true
   },
-  "obs:ob/void": {
-    "criteria": {
-      "requirement": "2024-12-13 00:59:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:59:26 +0000"
@@ -6635,12 +6623,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-12-13 00:59:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:59:26 +0000"
@@ -6770,12 +6752,6 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:59:26 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2024-12-13 01:01:41 +0000"
     },
     "done": true
   },
@@ -7754,6 +7730,156 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-13 00:59:27 +0000"
+    },
+    "done": false
+  },
+  "obs:ob/void": {
+    "criteria": {
+      "requirement": "2024-12-13 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2024-12-13 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2024-12-13 01:01:41 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2024-12-13 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2024-12-13 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2024-12-13 01:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-13 01:07:15 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2024-12-13 01:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-13 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-13 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-13 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-13 01:12:30 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2024-12-13 01:15:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-13 01:48:23 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2024-12-13 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-13 01:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-13 01:23:34 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-13 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-13 01:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2024-12-13 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-13 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-13 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-13 01:44:41 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-13 01:21:19 +0000"
     },
     "done": true
   },

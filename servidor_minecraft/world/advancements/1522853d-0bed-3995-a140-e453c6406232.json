@@ -893,12 +893,6 @@
     },
     "done": true
   },
-  "obs:tips/root": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -1913,12 +1907,6 @@
     },
     "done": true
   },
-  "obs:tips/mob_drops": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -1928,12 +1916,6 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:technical/root": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -2357,12 +2339,6 @@
     },
     "done": true
   },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2024-12-13 01:00:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -2762,12 +2738,6 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/gate": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -3869,12 +3839,6 @@
     },
     "done": true
   },
-  "obs:tips/biomes": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -3908,12 +3872,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/visitor": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -4160,12 +4118,6 @@
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/root": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -4547,12 +4499,6 @@
     },
     "done": true
   },
-  "obs:ob/void": {
-    "criteria": {
-      "requirement": "2024-12-13 00:59:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -4919,12 +4865,6 @@
     },
     "done": true
   },
-  "obs:tips/trader": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -5030,12 +4970,6 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/phantoms": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -5324,12 +5258,6 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/end": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -5789,12 +5717,6 @@
     },
     "done": true
   },
-  "obs:tips/recipes": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -6167,12 +6089,6 @@
     },
     "done": true
   },
-  "obs:tips/piglins": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -6254,12 +6170,6 @@
   "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/spawns": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -6635,12 +6545,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-12-13 00:58:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -6773,12 +6677,6 @@
     },
     "done": true
   },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2024-12-13 01:01:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -6902,12 +6800,6 @@
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:tips/command": {
-    "criteria": {
-      "requirement": "2024-12-13 00:58:58 +0000"
     },
     "done": true
   },
@@ -7493,12 +7385,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-13 01:02:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
@@ -7514,12 +7400,6 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/dirt_1": {
-    "criteria": {
-      "requirement": "2024-12-13 01:01:42 +0000"
     },
     "done": true
   },
@@ -7766,6 +7646,234 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-13 00:58:57 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/root": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/mob_drops": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:technical/root": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/gate": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/biomes": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/visitor": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/root": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/trader": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/phantoms": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/end": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/recipes": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/piglins": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:tips/spawns": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-13 00:58:58 +0000"
+    },
+    "done": false
+  },
+  "obs:tips/command": {
+    "criteria": {
+      "requirement": "2024-12-13 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/void": {
+    "criteria": {
+      "requirement": "2024-12-13 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2024-12-13 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2024-12-13 01:01:41 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2024-12-13 01:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-13 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2024-12-13 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-13 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2024-12-13 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2024-12-13 01:06:52 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-13 01:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-13 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2024-12-13 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-13 01:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-13 01:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-13 01:35:15 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-13 01:26:19 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-13 01:44:48 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-13 01:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-13 01:29:13 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-13 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-13 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-13 01:44:41 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2024-12-13 01:37:09 +0000"
     },
     "done": true
   },
